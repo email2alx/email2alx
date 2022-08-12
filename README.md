@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @email2alx (Alex Abraham)
-- 👀 I’m interested in JavaScript, GoLang, Python, Docker, Nginx.
+- 👀 I’m interested in JavaScript, GoLang, Docker, Nginx.
 - 🌱 I’m currently learning AWS certification (AWS certified solutions architect associate).
 - 📫 Reach me on `email2alx@gmail.com`.
 
