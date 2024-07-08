@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @email2alx (Alex Abraham)
-- 👀 On to JavaScript, GoLang, Docker, Nginx.
-- 🌱 Learning AWS certification (AWS certified solutions architect associate).
+- 👀 On to JavaScript, TypeScript, GoLang, Docker, Nginx.
 - 📫 Reach me on `email2alx@gmail.com`.
 
 <!---
